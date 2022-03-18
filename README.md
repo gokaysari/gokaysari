@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @gokaysari
 - 👀 Besides being interested in development and coding, I would love to learn new things
-- 🌱 I’m currently learning advanced python, algorithm, machine learning
+- 🌱 I’m currently learning advanced python, machine learning
+- 🌱 and also I'm currently learning algorithm with C++ and opearting systems.
 - 📫 You can reach me on Linkedin
 - https://www.linkedin.com/in/gokaysari-cs/
 
