@@ -6,8 +6,6 @@
 - https://www.linkedin.com/in/gokaysari-cs/
 - Mail : gkysari@gmail.com
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
-
 <!---
 Hi, I am Gökay Sarı. I am a third year student in computer engineering at ITU.
 --->
