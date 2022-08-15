@@ -8,7 +8,7 @@
 
 [![github](https://github.com/gokaysari)
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"(https://www.linkedin.com/in/gokaysari-cs/)/>]
+<img src="https://www.linkedin.com/in/gokaysari-cs/"/>]
 
 <!---
 Hi, I am Gökay Sarı. I am a third year student in computer engineering at ITU.
