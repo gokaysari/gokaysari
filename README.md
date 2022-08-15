@@ -5,10 +5,7 @@
 - 📫 You can connect me on Linkedin or email.
 - https://www.linkedin.com/in/gokaysari-cs/
 - Mail : gkysari@gmail.com
-
-[![github](https://github.com/gokaysari)
-
-<img src="https://www.linkedin.com/in/gokaysari-cs/"/>]
+"https://www.linkedin.com/in/gokaysari-cs/"/>]
 
 <!---
 Hi, I am Gökay Sarı. I am a third year student in computer engineering at ITU.
