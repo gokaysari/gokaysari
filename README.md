@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning React, Flutter.
 - 🐝 and also I'm currently learning Node.js and I am interested in learning swift.
 - 📫 You can connect me on Linkedin or email.
-- 
 - Mail : gkysari@gmail.com
 
 
