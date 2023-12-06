@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gokaysari
 - 👀 Besides being interested in development and coding, I would love to learn new things
-- 🌱 I’m currently learning React, Flutter.
-- 🐝 and also I'm currently learning Node.js and I am interested in learning swift.
+- 🌱 I’m currently learning Java Spring Boot and React.
+- 🐝 and also I'm currently learning cyber security tools and I am interested in learning eBPF.
 - 📫 You can connect me on Linkedin or email.
 - Mail : gkysari@gmail.com
 
